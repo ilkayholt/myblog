@@ -1,6 +1,4 @@
 ### Personal blog & web site 👋
-test line
-<!--
 
 Here are main things about me:
 
@@ -10,4 +8,4 @@ Here are main things about me:
 - 📫 How to reach me: ilkayholt[@]gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love cats and Fridays.
--->
+
